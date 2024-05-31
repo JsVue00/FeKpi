@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Khmer&display=swap');
+
+:root {
+  --primary: #c9c9c9;
+  --secondary: #ffffff;
+  --tertiary: #ffffff;
+  --border: #cccccc;
+  --failure: #ffffff;
+  --success: #099e01;
+  --warning: #d4ff00;
+  --background1: #ffffff;
+  --background2: #012a41;
+  --background3: #ffffff;
+  --text1: #000000;
+  --text2: #ffffff;
+}
+
+html {
+  font-family: 'Khmer', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
